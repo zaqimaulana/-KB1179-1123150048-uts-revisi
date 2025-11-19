@@ -1,16 +1,25 @@
-# kb1179_1123150048_uts_revisi
+#  UTS MOBILE APP
 
-A new Flutter project.
+Aplikasi Flutter dengan fitur Splash Screen dan Login, dibuat untuk memenuhi tugas UTS Mata Kuliah **Pemrograman Mobile**.
 
-## Getting Started
+* **Nama:** Zaqi Maulana  
+* **NIM:** 1123150048  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Hasil Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  <img src="assets/images/ssLogin" width="">
+  <img src="assets/images/ssScreen1.png" width="">
+  <img src="assets/images/ssScreen2.png" width="">
+  <img src="assets/images/ssScreen3.png" width="">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+##  Cara Menjalankan Project
+
+1. Buka project di **Android Studio** atau **VS Code**.  
+2. Pastikan perangkat (emulator atau HP) sudah terhubung.  
+3. Jalankan perintah berikut di terminal:
+   ```bash
+   flutter run / f5
